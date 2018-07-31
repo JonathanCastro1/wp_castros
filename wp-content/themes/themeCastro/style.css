@@ -55,12 +55,58 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
  */
 
 /*esto es para que salga completa la navbar*/
-body {
+/*body {
 	margin-top: 50px;	
 }
 
 .logged-in .navbar-fixed-top {
 	top: 32px;
-}
+}*/
 
 /*hasta aqui la parte de navbar*/
+
+/*efectos que le agrego al tema personalizados*/
+.seccionCuatro{
+	background-color: #FFFFFF;
+	border-style: solid;
+}
+
+body{
+	background-color: #C0C0C0;
+}
+
+.seccionUno p{
+ 	color: #FFFFFF;
+}
+
+.seccionDos p{
+ 	color: #FFFFFF;
+}
+
+.seccionTres p{
+ 	color: #FFFFFF;
+ 	
+}
+
+.seccionTres{
+ 	padding-bottom: 150px; 	
+}
+
+.seccionCuatro{
+ 	padding-bottom: 50px;
+ 	margin-bottom: 50px;
+}
+
+.carrusel{
+	margin-top: 100px;
+}
+
+footer{
+	padding-top: 50px;
+}
+
+/* .seccionUno{
+    visibility: hidden;
+}*/
+
+/*fin estilos*/

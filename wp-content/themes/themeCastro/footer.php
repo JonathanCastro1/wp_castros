@@ -23,7 +23,10 @@
    <script src="<?php bloginfo('template_directory'); ?>/assets/js/jquery.js"></script>
 
     
-   <script src="<?php bloginfo('template_directory'); ?>/assets/js/bootstrap.min.js"></script>  
+   <script src="<?php bloginfo('template_directory'); ?>/assets/js/bootstrap.min.js"></script> 
+
+   <script src="<?php bloginfo('template_directory'); ?>/assets/js/efectos.js"></script>  
+ 
 
 
 </body>

@@ -15,6 +15,8 @@
 get_header();
 ?>
 
+<!-- accedo al template page-home -->
+<?php get_template_part('page','home'); ?>
 
 <?php
 
