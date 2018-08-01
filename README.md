@@ -1,6 +1,9 @@
-# #Author: Jonathan Castro
-Versiones:
-wordpress-4.9.7
-Base de datos Mysql
-Jquery 3.3.1
-Bootstrap 3.3.7
+# #Author: Jonathan Castro<br>
+Versiones:<br>
+wordpress-4.9.7<br>
+Base de datos Mysql<br>
+Jquery 3.3.1<br>
+Bootstrap 3.3.7<br>
+
+user: admin<br>
+pass: admin<br>
