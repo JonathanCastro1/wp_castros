@@ -5,5 +5,5 @@ Base de datos Mysql<br>
 Jquery 3.3.1<br>
 Bootstrap 3.3.7<br>
 
-user: admin<br>
-pass: admin<br>
+User: admin<br>
+Pass: admin<br>
