@@ -1,4 +1,3 @@
-# #Author: Jonathan Castro<br>
 Versiones:<br>
 wordpress-4.9.7<br>
 Base de datos Mysql<br>
